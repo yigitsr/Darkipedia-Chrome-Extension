@@ -1,0 +1,46 @@
+body,
+table,
+th,
+td,
+ul,
+.thumbinner,
+.navbox,
+[id^="ca-"] *,
+#mw-head,
+#content,
+#toc,
+#catlinks {
+  background-color: var(--background) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+caption {
+  color: var(--headings) !important;
+}
+
+div {
+  color: var(--parag);
+}
+
+th,
+td,
+p,
+input,
+.tocnumber,
+[id^="footer-"] * {
+  color: var(--parag) !important;
+}
+
+a,
+.toctogglelabel {
+  color: var(--link) !important;
+}
+
+input {
+  background-color: var(--inputBack);
+}
