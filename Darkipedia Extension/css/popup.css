@@ -1,0 +1,22 @@
+body {
+    background: #26282b;
+}
+
+h1 {
+    color: #5693d2;
+}
+
+p {
+    color: #cbdddf;
+}
+
+.linkBtn {
+    border-radius: 6px;
+    width: 80%;
+    text-decoration: none;
+    color: #5693d2;
+}
+
+.linkBtn:hover {
+    text-decoration: underline;
+}
